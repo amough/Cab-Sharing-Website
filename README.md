@@ -1,1 +1,6 @@
 # Cab-Sharing-Website
+Developed a web application for efficient cab sharing, aimed at reducing travel costs, traffic congestion, and parking demands.
+Technical Aspects: Designed a user-friendly interface using HTML, CSS, and JavaScript for both passengers and drivers. Implemented location-based services for route planning using maps and geolocation. Integrated user authentication and database management.
+Technologies Used: HTML, CSS, JavaScript, Maps API, Geolocation, Database Management.
+Impact: Facilitated cost-effective transportation options, showcased web development skills, and contributed to traffic reduction efforts.Developed a web application for efficient cab sharing, aimed at reducing travel costs, traffic congestion, and parking demands. Technical Aspects: Designed a user-friendly interface using HTML, CSS, and JavaScript for both passengers and drivers. Implemented location-based services for route planning using maps and geolocation. Integrated user authentication and database management. Technologies Used: HTML, CSS, JavaScript, Maps API, Geolocation, Database Management. Impact: Facilitated cost-effective transportation options, showcased web development skills, and contributed to traffic reduction efforts.
+Skills: Application Programming Interfaces (API) · Oracle Database · HTML · Cascading Style Sheets (CSS) · JavaScript
